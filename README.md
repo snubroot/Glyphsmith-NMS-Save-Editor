@@ -417,6 +417,4 @@ Starter generator flows include:
 
 ## Notes
 
-Close No Man's Sky or avoid saving in-game while writing the same save from Glyphsmith.
-
 No Man's Sky is developed by Hello Games. Glyphsmith is an independent editor for personal save management.
